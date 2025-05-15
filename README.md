@@ -1,7 +1,7 @@
 ### Hi I'm Alina 🙋🏼‍♀️
 
 
-``` Junior Frontend developer ```
+``` Frontend developer ```
 
 I have a great passion for working in tech.  
 **Landing pages, websites** based on HTML, CSS, SASS, React.js.  
